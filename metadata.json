@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Stylist AI",
+  "description": "Upload a photo of a clothing item, and our AI will generate three complete outfit options (Casual, Business, Night Out) visualized as clean 'flat-lay' style images. You can then use text prompts to edit the generated outfits.",
+  "requestFramePermissions": []
+}
